@@ -1,3 +1,34 @@
 .div1{
     background-color: green;
 }
+
+.div2 {
+    color: purple;
+}
+
+.div3 { 
+    background-color: royalblue;
+}
+
+.span1 { 
+    background-color: red;
+}
+
+.div4 {
+    background-color: white;
+    color: darkmagenta;
+    padding: 20px;
+    margin: 20px;
+    border-style: solid;
+    border-color: darkorchid;    
+    border-width: 3px;
+    border-radius: 10px;
+    inline-size: 200px;
+    text-align: center;
+
+}
+
+.lastdiv {
+    margin-top: 2000px;
+
+}
